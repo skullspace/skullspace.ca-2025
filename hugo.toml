@@ -1,0 +1,4 @@
+baseURL = 'https://skullspace.ca'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "binario"
